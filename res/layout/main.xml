@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" android:background="@color/off_grey" android:paddingBottom="3dp" android:id="@+id/airplane_box">
+
+    <ImageButton
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/airplane_mode_icon" android:clickable="true" android:focusable="true" android:background="#555"/>
+
+</LinearLayout>
