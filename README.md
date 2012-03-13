@@ -8,7 +8,7 @@ A simple Airplane mode widget for your default Android 4.0. My Galaxy Nexus does
 Screenshot
 ------------
 
-![Screenshot](https://github.com/seymores/Android-Airplane-Mode-/raw/master/screenshots/screenshot.png)
+![Screenshot](https://github.com/seymores/Android-Airplane-Mode/raw/master/screenshots/screenshot.png)
 
 License
 -------------------------
